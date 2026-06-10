@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Boikhethelo
 
-<!--
-**Boikhethelo/Boikhethelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development Student at WeThinkCode
 
-Here are some ideas to get you started:
+I'm currently learning:
+- Java
+- Python
+- Software Design
+- Object-Oriented Programming
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+- Build real-world Java applications
+- Strengthen software design skills
+- Contribute to open-source projects
+- Grow as a backend developer
+
+## 🛠️ Tech Stack
+- Java
+- Python
+- Git & GitHub
+- Linux
+- SQL
+
+## 📂 Featured Projects
+- AI-Powered CRM for B2B leads
+
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/boikhethelo-lehata
+- Email: boikhethelo97@gmail.com
